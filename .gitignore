@@ -1,0 +1,5 @@
+.env
+chats.db
+__pycache__/
+README.md
+bo1.py
